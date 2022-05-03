@@ -1,2 +1,2 @@
 # Scientific_Python_Computing
-Some Python projects that I made for claim a python certification.
+These are some easy projects that I have been developing, thanks to this I have achieved the certification of scientific computing.
